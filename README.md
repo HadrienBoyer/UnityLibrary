@@ -7,6 +7,12 @@ Useful scripts, snippets and shaders here it is gathered for free.
 
 We have collected most of the scripts from external sources like Unity Communities (Forums, Answers) and some of them are made by us.
 
+## Purpose of this Fork
+
+This fork is maintained with the goal of keeping the content current well into
+2025. Future work will be based around a scriptable objects architecture to help
+organize and extend the library as Unity evolves.
+
 ## Getting Started
 
 This repository contains all kind of utilities for Unity from scripts to shaders.
